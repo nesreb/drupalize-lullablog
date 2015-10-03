@@ -65,7 +65,7 @@ function lullablog_field_default_field_instances() {
         'module' => 'image',
         'settings' => array(
           'image_link' => '',
-          'image_style' => 'thumbnail',
+          'image_style' => 'medium',
         ),
         'type' => 'image',
         'weight' => 1,

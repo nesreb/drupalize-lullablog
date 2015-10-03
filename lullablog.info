@@ -17,4 +17,4 @@ features[field_instance][] = node-lullablog-field_lullablog_subtitle
 features[node][] = lullablog
 features[views_view][] = lullablog
 features_exclude[dependencies][ctools] = ctools
-project path = sites/all/modules/custom
+project path = sites/all/modules/features
